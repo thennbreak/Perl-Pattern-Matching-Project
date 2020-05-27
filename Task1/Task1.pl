@@ -40,6 +40,7 @@ while(my $three = <SOLAR>){#read in the file
   }
 }
 
+#(4-1)
 print "All the records for objects discovered by Voyager2.\n";
 while(my $four = <SOLAR>){
   my @field4 = split(" ", $four);
@@ -48,7 +49,7 @@ while(my $four = <SOLAR>){
   }
 }
 
-#(4-1)
+#(5-1)
 #seconds in a day 86400, 1.0 = 1 day, if given is < 1 = less than a day, if given is > 1 = more than a day
 #therefore anything > 1 = 86400 * x to find seconds
 #and anything < 1 = is the same as above
