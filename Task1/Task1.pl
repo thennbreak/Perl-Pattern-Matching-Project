@@ -1,6 +1,6 @@
 #Print all records that do not list a discoverer in the eighth field. (1-1)
 
-my $ephi = 'solar.txt'; #opening the file
+my $ephi = 'input.txt'; #opening the file
 open(SOLAR, '<', $ephi) or die $!; #either open the file or end the program if the file cannot open
 
 print "All records that do not list a discoverer in the eighth field.\n";
