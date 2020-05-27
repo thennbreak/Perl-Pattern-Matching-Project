@@ -86,5 +86,3 @@ Triton I Neptune 355000 -5.88 157.00 0.00 Lassell 1846
 Umbriel II Uranus 266000 4.14 0.00 0.00 Lassell 1851
 Uranus VII Sun 2870990000 30685.00 0.77 0.05 Herschel 1781
 Venus II Sun 108200000 224.70 3.39 0.01 - -
-
-a
