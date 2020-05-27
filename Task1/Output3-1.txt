@@ -1,0 +1,16 @@
+[Command: perl 'C:\Users\Tyler Henn\OneDrive\CSCI 374\Task1.pl']
+All the records for satellites that have negative orbital periods.
+Ananke XII Jupiter 21200000 -631 147.00 0.17 Nicholson 1951
+Caliban XVI Uranus 7169000 -580 140. 0.08 Gladman 1997
+Carme XI Jupiter 22600000 -692 163.00 0.21 Nicholson 1938
+Chaldene XXI Jupiter 23387000 -733.7 165.2 0.238 Sheppard 2000
+Pasiphae VIII Jupiter 23500000 -735 147.00 0.38 Melotte 1908
+Phoebe IX Saturn 12952000 -550.48 175.30 0.16 Pickering 1898
+Prospero XVIII Uranus 16568000 -2019 152. 0.44 Holman 1999
+Setebos XIX Uranus 17681000 -2239 158. 0.57 Kavelaars 1999
+Sinope IX Jupiter 23700000 -758 153.00 0.28 Nicholson 1914
+Stephano XX Uranus 7948000 -674 143. 0.24 Gladman 1999
+Sycorax XVII Uranus 12213000 -1289 153. 0.51 Nicholson 1997
+Trinculo XXI Uranus 8578000 -759 167.0 0.208 Gladman 2001
+Triton I Neptune 355000 -5.88 157.00 0.00 Lassell 1846
+[Finished in 0.081s]
