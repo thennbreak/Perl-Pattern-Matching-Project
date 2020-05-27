@@ -2,7 +2,7 @@
 
 my $ephi = 'solar.txt'; #opening the file
 open(SOLAR, '<', $ephi) or die $!; #either open the file or end the program if the file cannot open
-=pod
+
 print "All records that do not list a discoverer in the eighth field.\n";
 while(my $one = <SOLAR>){ #read in the file
   chomp($one);#remove \n from the file
@@ -47,7 +47,7 @@ while(my $four = <SOLAR>){
     print "@field4[0..$#field4]\n";
   }
 }
-=cut
+
 
 #seconds in a day 86400, 1.0 = 1 day, if given is < 1 = less than a day, if given is > 1 = more than a day
 #therefore anything > 1 = 86400 * x to find seconds
