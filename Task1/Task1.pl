@@ -1,4 +1,4 @@
-#Print all records that do not list a discoverer in the eighth field.
+#Print all records that do not list a discoverer in the eighth field. (1-1)
 
 my $ephi = 'solar.txt'; #opening the file
 open(SOLAR, '<', $ephi) or die $!; #either open the file or end the program if the file cannot open
@@ -14,7 +14,7 @@ while(my $one = <SOLAR>){ #read in the file
 }
 
 
-#print all records after erasing the second field.
+#print all records after erasing the second field. (2-1)
 
 print "Every record after erasing the second field.\n";
 while(my $two = <SOLAR>){#read in the file
@@ -29,7 +29,7 @@ while(my $two = <SOLAR>){#read in the file
 
 
 
-#print all records that have negative orbital periods
+#print all records that have negative orbital periods (3-1)
 
 print "All the records for satellites that have negative orbital periods.\n";
 while(my $three = <SOLAR>){#read in the file
@@ -48,7 +48,7 @@ while(my $four = <SOLAR>){
   }
 }
 
-
+#(4-1)
 #seconds in a day 86400, 1.0 = 1 day, if given is < 1 = less than a day, if given is > 1 = more than a day
 #therefore anything > 1 = 86400 * x to find seconds
 #and anything < 1 = is the same as above
