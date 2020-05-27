@@ -1,0 +1,11 @@
+[Command: perl 'C:\Users\Tyler Henn\OneDrive\CSCI 374\Task1.pl']
+All records that do not list a discoverer in the eighth field.
+Earth III Sun 149600000 365.26 0.00 0.02 - -
+Jupiter V Sun 778330000 4332.71 1.31 0.05 - -
+Mars IV Sun 227940000 686.98 1.85 0.09 - -
+Mercury I Sun 57910000 87.97 7.00 0.21 - -
+Moon I Earth 384000 27.32 5.14 0.05 - -
+Saturn VI Sun 1429400000 10759.50 2.49 0.06 - -
+Sun - - - - - - - -
+Venus II Sun 108200000 224.70 3.39 0.01 - -
+[Finished in 0.099s]
