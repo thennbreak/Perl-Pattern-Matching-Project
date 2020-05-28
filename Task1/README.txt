@@ -1,0 +1,1 @@
+In this task the input file is solar.txt and is information that inlcudes details about different space objects and space discoveries.  The program accomplishes several different pattern matches, with the focus being on filtering the file.  The first filter applied which was output to Oup
