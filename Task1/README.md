@@ -1,4 +1,4 @@
-In this task the input file is solar.txt and is information that inlcudes details about different space objects and space discoveries.  The programs accomplishe several different pattern matches, with the focus being on filtering the file and making small changes to specific information in the file.  
+In this task the input file is solar.txt and is information that inlcudes details about different space objects and space discoveries.  The programs accomplish several different pattern matches, with the focus being on filtering the file and making small changes to specific information in the file.  
 
 1. The first filter applied "Filter1.pl" will print all records in solar.txt that do not have a discoverer and corresponds to Output1-1. 
 
