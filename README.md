@@ -8,5 +8,5 @@ This project was created to learn about perl pattern matching techniques.  There
 **Task 2:**
   - Takes a large input file of data and sorts the data to find desired output
   - Sorts alphabetically ignoring captialization, alphabetically with captialization having priority
-  - Counts frequency of 
+  - Counts frequency of words and sorts alphabetically ignoring captialization, frequency of words and sorts alphabetically with captialization having priority
   
